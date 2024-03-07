@@ -8,6 +8,8 @@ includes 50,000 movies. The complexity of the dataset poses a challenge to its p
 schema diagram of the dataset utilized in our experimental research is portrayed in Figure below. The diagram provides
 an overview of the data model that relates to the database tables of the IMDb dataset, and the relationships between
 them.
+![image](https://github.com/HarbyElectro/SQL_Queries_IMDb/assets/152432979/4b995a50-3f50-4232-9a49-2008e73293f6)
+
 
 * Results conducted for the 15 OLAP queries:
 
