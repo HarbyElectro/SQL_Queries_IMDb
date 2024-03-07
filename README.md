@@ -1,7 +1,7 @@
 * We defined 15 OLAP queries of varying degrees of complexity. These queries have been designed to introduce to test the performance of the
 DL, DW, and LH. We conducted our experiments using 3 pipelines as shown in Figure 5. When it comes to database
 benchmarking, selecting the right queries is essential to effectively evaluate the performance of a database system.
-IMDb contains extensive information on movies, actors, directors, and production companies. The dataset
+* WE used IMDb which contains extensive information on movies, actors, directors, and production companies. The dataset
 includes 50,000 movies. The complexity of the dataset poses a challenge to its processing and analysis. The ER
 schema diagram of the dataset utilized in our experimental research is portrayed in Figure below. The diagram provides
 an overview of the data model that relates to the database tables of the IMDb dataset, and the relationships between
