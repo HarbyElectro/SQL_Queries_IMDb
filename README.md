@@ -9,7 +9,7 @@ schema diagram of the dataset utilized in our experimental research is portrayed
 an overview of the data model that relates to the database tables of the IMDb dataset, and the relationships between
 them.
 
-*Results conducted for the 15 OLAP queries:
+* Results conducted for the 15 OLAP queries:
 
 ![image](https://github.com/HarbyElectro/SQL_Queries_IMDb/assets/152432979/a7858279-6a3b-4ba3-b3dd-279ab7b930b5)
 
