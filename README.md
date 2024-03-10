@@ -1,3 +1,4 @@
+Data Lakehouse: A Survey and Experimental Study
 * We defined 15 OLAP queries of varying degrees of complexity. These queries have been designed to introduce to test the performance of the
 DL, DW, and LH. We conducted our experiments using 3 pipelines as shown in Figure below. When it comes to database
 benchmarking, selecting the right queries is essential to effectively evaluate the performance of a database system.
